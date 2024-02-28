@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Salut, je suis KOUAKOU Yao Souleymane, étudiant à l'Université TGMaster. 
-Je suis passionné par la technologie. 
-J'ai créé mon compte GitHub pour déposer mes évaluations données par l'équipe SAYNA.
+- Hi, I'm KOUAKOU Yao Souleymane, a student at TgMaster University. 
+- I'm passionate about technology. 
+- I created my GitHub account to deposit my evaluations given by the SAYNA team.
